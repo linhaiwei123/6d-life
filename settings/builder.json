@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.6d-life",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "e5e8433a-6492-4f84-83e0-93075737f4f2",
+  "title": "6d-life",
+  "webOrientation": "auto"
+}
